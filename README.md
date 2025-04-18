@@ -1,6 +1,6 @@
-# reactor
+# nextjs-app
 
-This is SPA based on React.js\Next.js
+Next.js Web Application
 
 # Introduction 
 
@@ -19,9 +19,6 @@ yarn dev
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 ## Tasks
+## TODO
 ## Done
-### 2023
-#### December
-## Doing
-## To Do
-- 
+
